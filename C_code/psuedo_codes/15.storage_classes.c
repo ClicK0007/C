@@ -37,7 +37,7 @@ Extern
 
 //static int val=i; //error: initializer element is not constant
 
-// // auto int a =1; //Error: auto cannot be declared globally
+// // auto int a =1; //Error
 // int a = 1; // global scope
 // void print_a(){
 //     printf("%d",a);
